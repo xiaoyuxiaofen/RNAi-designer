@@ -1,5 +1,7 @@
 # RNAi Designer
 
+[中文文档 / Chinese Guide](docs/中文使用说明.md)
+
 Haplotype-aware RNAi trigger candidate designer for plant ihpRNA / hpRNA workflows.
 
 This tool takes target transcript sequences from two or more haplotypes plus a whole-transcriptome FASTA database, then reports 200-500 bp candidate RNAi trigger regions that:
